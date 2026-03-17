@@ -1,7 +1,7 @@
 package com.bcher.amethystgear.item;
 
-import net.minecraft.tags.BlockTags;
-import net.minecraft.world.item.ToolMaterial;
+import net.minecraft.item.ToolMaterial;
+import net.minecraft.registry.tag.BlockTags;
 
 public final class ModToolMaterials {
 	public static final ToolMaterial AMETHYST = new ToolMaterial(
